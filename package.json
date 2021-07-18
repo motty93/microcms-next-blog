@@ -15,14 +15,17 @@
     "microcms-js-sdk": "^1.2.0",
     "next": "11.0.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "@types/react": "17.0.14",
     "@types/react-redux": "^7.1.18",
+    "@types/redux-thunk": "^2.1.0",
     "babel-plugin-module-resolver": "^4.1.0",
     "eslint": "7.31.0",
     "eslint-config-next": "11.0.1",
+    "redux-devtools": "^3.7.0",
     "typescript": "4.3.5"
   }
 }
